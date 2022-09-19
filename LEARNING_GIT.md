@@ -23,3 +23,5 @@ Show the possible options for the status command in command line
 Update the current branch from its origin using a single command
 
 push the current branch to its default remote origin
+
+## Those are commands, you will certainly use one day on a daily basis.
