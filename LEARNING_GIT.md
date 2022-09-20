@@ -1,12 +1,10 @@
 # devops-00-git-basics-final
 
-Insert the missing part of the command to check which version of Git (if any) is installed.
+Initialize Git on the current folder
 
 ```
 git init
 ```
-
-Initialize Git on the current folder
 
 Set the user name for the current repository to "fake-user"
 
